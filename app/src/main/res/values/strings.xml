@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">License Registry</string>
+
+    <string-array name="nationalities">
+        <item>JPN</item>
+        <item>KOR</item>
+        <item>PHL</item>
+
+    </string-array>
+
+    <string-array name="genders">
+        <item>MALE</item>
+        <item>FEMALE</item>
+    </string-array>
+
+    <string-array name="bloodtype">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O</item>
+    </string-array>
+
+    <string-array name="coloredeye">
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
